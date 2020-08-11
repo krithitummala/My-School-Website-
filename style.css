@@ -1,0 +1,32 @@
+h1{
+    color:purple;
+}
+
+.about{
+    background-color: darkcyan;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.events{
+    background-color: blueviolet;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+.header{
+    background-color: aqua;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.links{
+    background-color: cornflowerblue;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
